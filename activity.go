@@ -1,4 +1,4 @@
-package twitterunfollow
+package twitterfollow
 
 import (
 	s "strings"
@@ -12,7 +12,7 @@ type MyActivity struct {
 	metadata *activity.Metadata
 }
 
-var log = logger.GetLogger("activity-gdrivecreate")
+var log = logger.GetLogger("activity-twitterfollow")
 
 // NewActivity creates a new activity
 func NewActivity(metadata *activity.Metadata) activity.Activity {

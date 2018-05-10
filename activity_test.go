@@ -1,4 +1,4 @@
-package follow
+package twitterfollow
 
 import (
 	"io/ioutil"
