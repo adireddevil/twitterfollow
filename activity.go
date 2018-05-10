@@ -1,4 +1,4 @@
-package follow
+package twitterunfollow
 
 import (
 	s "strings"
