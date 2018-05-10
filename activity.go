@@ -2,9 +2,9 @@ package follow
 
 import (
 	s "strings"
-	"github.com/DipeshTest/allstarsshared/Twitter"
 	"github.com/TIBCOSoftware/flogo-lib/core/activity"
 	"github.com/TIBCOSoftware/flogo-lib/logger"
+	"github.com/DipeshTest/allstarsshared/Twitter"
 )
 
 // MyActivity is a stub for your Activity implementation
